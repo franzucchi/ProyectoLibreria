@@ -1,3 +1,5 @@
+La carpeta node_modules esta en dos .rar porque era muy grande no me dejaba subirlo todo de una
+
 //Crea la Base de datos que se va a utilizar en el sistema
 drop database if exists libreria;
 create database libreria;
